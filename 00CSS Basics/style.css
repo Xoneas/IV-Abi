@@ -1,0 +1,48 @@
+.zentriert {
+  /* text-align: right; */
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.fett {
+  font-weight: bold;
+}
+
+.groß {
+  /*! font-size: 30px; */
+  font size: 30pt;
+}
+
+.kursiv {
+  font-size: 30pt;
+}
+
+.hintergrund-blau {
+  background-color: lightblue;
+}
+
+.hintergrund-grün {
+  background-color: greenyellow;
+}
+
+.hintergrund-rot {
+  background-color: crimson;
+}
+
+.absolut {
+  /* position: relative; */
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+
+.float-links {
+  /* clear: both; */ 
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
