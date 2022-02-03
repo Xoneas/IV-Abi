@@ -17,7 +17,7 @@ $geburtsdatum = $_REQUEST["geburtsdatum"];
 
 echo "<h1> Hallo $vorname $nachname </h1> ";
 
-echo "<p> Hier sind Ihre angegebenen Daten: </p>";
+echo "<p class='rot'> Hier sind Ihre angegebenen Daten: </p>";
 
 echo " <table>
 <tr>
